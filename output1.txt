@@ -1,0 +1,1200 @@
+--->Epoch [1/100], Average Loss: 0.0476 Average Accuracy: 54.2046
+--->Avg Precision: 
+11.009429788019087
+--->Avg Recall: 
+50.07084692400592
+--->Avg F1: 
+18.048847539872845
+--->Missing Ones: 
+50.357364979330825
+Accuracy of the network on the 5794 test images: 54.53469769788375 %
+Missing ones in test: 
+48.14207811446466
+--->Epoch [2/100], Average Loss: 0.0471 Average Accuracy: 54.8551
+--->Avg Precision: 
+11.855745232445042
+--->Avg Recall: 
+54.123863401967675
+--->Avg F1: 
+19.449799029723657
+--->Missing Ones: 
+46.2697012199599
+Accuracy of the network on the 5794 test images: 55.1204606002673 %
+Missing ones in test: 
+43.75109578329785
+--->Epoch [3/100], Average Loss: 0.0466 Average Accuracy: 55.3772
+--->Avg Precision: 
+12.696672019417937
+--->Avg Recall: 
+58.39613016366032
+--->Avg F1: 
+20.85723023513361
+--->Missing Ones: 
+41.930459123160276
+Accuracy of the network on the 5794 test images: 55.486721453670036 %
+Missing ones in test: 
+39.6898647387883
+--->Epoch [4/100], Average Loss: 0.0461 Average Accuracy: 55.6719
+--->Avg Precision: 
+13.398914050546704
+--->Avg Recall: 
+62.26577535313602
+--->Avg F1: 
+22.051377317929692
+--->Missing Ones: 
+38.040475982237446
+Accuracy of the network on the 5794 test images: 55.65129267234895 %
+Missing ones in test: 
+35.76027679107791
+--->Epoch [5/100], Average Loss: 0.0457 Average Accuracy: 55.8165
+--->Avg Precision: 
+14.009333315524787
+--->Avg Recall: 
+65.93008947836294
+--->Avg F1: 
+23.1074800818103
+--->Missing Ones: 
+34.343384747785784
+Accuracy of the network on the 5794 test images: 55.70832558880541 %
+Missing ones in test: 
+32.28900481781128
+--->Epoch [6/100], Average Loss: 0.0452 Average Accuracy: 55.8818
+--->Avg Precision: 
+14.502368943847548
+--->Avg Recall: 
+69.06070992700755
+--->Avg F1: 
+23.969865769938956
+--->Missing Ones: 
+31.16877587423385
+Accuracy of the network on the 5794 test images: 55.758111839834314 %
+Missing ones in test: 
+29.336608363636795
+--->Epoch [7/100], Average Loss: 0.0448 Average Accuracy: 55.9558
+--->Avg Precision: 
+14.92898449001457
+--->Avg Recall: 
+71.80268185556787
+--->Avg F1: 
+24.717137857303037
+--->Missing Ones: 
+28.408573350322794
+Accuracy of the network on the 5794 test images: 55.85381207792325 %
+Missing ones in test: 
+26.832023417746804
+--->Epoch [8/100], Average Loss: 0.0444 Average Accuracy: 56.0729
+--->Avg Precision: 
+15.289516965118882
+--->Avg Recall: 
+74.02966692021565
+--->Avg F1: 
+25.342548067515242
+--->Missing Ones: 
+26.14016858764505
+Accuracy of the network on the 5794 test images: 56.01163449368489 %
+Missing ones in test: 
+25.01340966377606
+--->Epoch [9/100], Average Loss: 0.0440 Average Accuracy: 56.2244
+--->Avg Precision: 
+15.56073854933898
+--->Avg Recall: 
+75.60514486359895
+--->Avg F1: 
+25.8080806056401
+--->Missing Ones: 
+24.528325334112026
+Accuracy of the network on the 5794 test images: 56.21299222006851 %
+Missing ones in test: 
+23.77080244627263
+--->Epoch [10/100], Average Loss: 0.0436 Average Accuracy: 56.4437
+--->Avg Precision: 
+15.787094301930553
+--->Avg Recall: 
+76.70715797167354
+--->Avg F1: 
+26.183654992554068
+--->Missing Ones: 
+23.42397792893069
+Accuracy of the network on the 5794 test images: 56.49146331749026 %
+Missing ones in test: 
+22.902593022294052
+--->Epoch [11/100], Average Loss: 0.0433 Average Accuracy: 56.7110
+--->Avg Precision: 
+15.992597783598914
+--->Avg Recall: 
+77.5561542939877
+--->Avg F1: 
+26.51592485468263
+--->Missing Ones: 
+22.571297035800626
+Accuracy of the network on the 5794 test images: 56.807329421240375 %
+Missing ones in test: 
+22.20025900349938
+--->Epoch [12/100], Average Loss: 0.0429 Average Accuracy: 56.9941
+--->Avg Precision: 
+16.174918291888883
+--->Avg Recall: 
+78.19016741647617
+--->Avg F1: 
+26.80379171375186
+--->Missing Ones: 
+21.932606144441657
+Accuracy of the network on the 5794 test images: 57.1180509457175 %
+Missing ones in test: 
+21.665813075211894
+--->Epoch [13/100], Average Loss: 0.0425 Average Accuracy: 57.2960
+--->Avg Precision: 
+16.340578375352834
+--->Avg Recall: 
+78.65563571327951
+--->Avg F1: 
+27.058322287400422
+--->Missing Ones: 
+21.470229439195634
+Accuracy of the network on the 5794 test images: 57.436516998132454 %
+Missing ones in test: 
+21.30330566016904
+--->Epoch [14/100], Average Loss: 0.0421 Average Accuracy: 57.5852
+--->Avg Precision: 
+16.494964571488246
+--->Avg Recall: 
+79.0521502849827
+--->Avg F1: 
+27.293360581716392
+--->Missing Ones: 
+21.09104019728732
+Accuracy of the network on the 5794 test images: 57.74281307807369 %
+Missing ones in test: 
+20.999611925258556
+--->Epoch [15/100], Average Loss: 0.0418 Average Accuracy: 57.8757
+--->Avg Precision: 
+16.63541629989227
+--->Avg Recall: 
+79.33832552468003
+--->Avg F1: 
+27.50266120481368
+--->Missing Ones: 
+20.803127603605564
+Accuracy of the network on the 5794 test images: 58.03489241744334 %
+Missing ones in test: 
+20.73955428336318
+--->Epoch [16/100], Average Loss: 0.0414 Average Accuracy: 58.1691
+--->Avg Precision: 
+16.778061771296017
+--->Avg Recall: 
+79.62589133578626
+--->Avg F1: 
+27.714314149689795
+--->Missing Ones: 
+20.511692652228295
+Accuracy of the network on the 5794 test images: 58.33266951665295 %
+Missing ones in test: 
+20.468990335180212
+--->Epoch [17/100], Average Loss: 0.0410 Average Accuracy: 58.4492
+--->Avg Precision: 
+16.9137067270784
+--->Avg Recall: 
+79.89815372044258
+--->Avg F1: 
+27.916004017154805
+--->Missing Ones: 
+20.241743384752283
+Accuracy of the network on the 5794 test images: 58.63017002557907 %
+Missing ones in test: 
+20.20077788944578
+--->Epoch [18/100], Average Loss: 0.0407 Average Accuracy: 58.7460
+--->Avg Precision: 
+17.062283003729124
+--->Avg Recall: 
+80.19842272485799
+--->Avg F1: 
+28.13688821766986
+--->Missing Ones: 
+19.942405176937008
+Accuracy of the network on the 5794 test images: 58.9178792384695 %
+Missing ones in test: 
+19.88306425569207
+--->Epoch [19/100], Average Loss: 0.0404 Average Accuracy: 59.0336
+--->Avg Precision: 
+17.219204279632017
+--->Avg Recall: 
+80.57362321361283
+--->Avg F1: 
+28.372823900216556
+--->Missing Ones: 
+19.572857006908276
+Accuracy of the network on the 5794 test images: 59.19906092066949 %
+Missing ones in test: 
+19.47538922649694
+--->Epoch [20/100], Average Loss: 0.0400 Average Accuracy: 59.3493
+--->Avg Precision: 
+17.391621353001813
+--->Avg Recall: 
+80.97278390536334
+--->Avg F1: 
+28.631588747937155
+--->Missing Ones: 
+19.16167856007998
+Accuracy of the network on the 5794 test images: 59.500101785224324 %
+Missing ones in test: 
+19.030767506188575
+--->Epoch [21/100], Average Loss: 0.0397 Average Accuracy: 59.6481
+--->Avg Precision: 
+17.557478525240985
+--->Avg Recall: 
+81.35820670233998
+--->Avg F1: 
+28.88132178377294
+--->Missing Ones: 
+18.76304884525685
+Accuracy of the network on the 5794 test images: 59.80855526937681 %
+Missing ones in test: 
+18.63007742039614
+--->Epoch [22/100], Average Loss: 0.0394 Average Accuracy: 59.9795
+--->Avg Precision: 
+17.736141811237434
+--->Avg Recall: 
+81.73713369895599
+--->Avg F1: 
+29.14576213317298
+--->Missing Ones: 
+18.360198085420112
+Accuracy of the network on the 5794 test images: 60.144003965198316 %
+Missing ones in test: 
+18.291394715720262
+--->Epoch [23/100], Average Loss: 0.0391 Average Accuracy: 60.3209
+--->Avg Precision: 
+17.906799519098247
+--->Avg Recall: 
+82.01235980853997
+--->Avg F1: 
+29.393814239510455
+--->Missing Ones: 
+18.071030166052367
+Accuracy of the network on the 5794 test images: 60.49217581406052 %
+Missing ones in test: 
+18.07948677749866
+--->Epoch [24/100], Average Loss: 0.0388 Average Accuracy: 60.6770
+--->Avg Precision: 
+18.07053824722452
+--->Avg Recall: 
+82.18866632883739
+--->Avg F1: 
+29.625618187479912
+--->Missing Ones: 
+17.900815424843998
+Accuracy of the network on the 5794 test images: 60.85655585353548 %
+Missing ones in test: 
+17.955307352177304
+--->Epoch [25/100], Average Loss: 0.0385 Average Accuracy: 61.0479
+--->Avg Precision: 
+18.23126200002105
+--->Avg Recall: 
+82.28902975494182
+--->Avg F1: 
+29.847706140163137
+--->Missing Ones: 
+17.798254371143454
+Accuracy of the network on the 5794 test images: 61.239965304514854 %
+Missing ones in test: 
+17.895415060090627
+--->Epoch [26/100], Average Loss: 0.0382 Average Accuracy: 61.4213
+--->Avg Precision: 
+18.39312222211343
+--->Avg Recall: 
+82.36016947914581
+--->Avg F1: 
+30.069204143544685
+--->Missing Ones: 
+17.726009483504566
+Accuracy of the network on the 5794 test images: 61.63073205703515 %
+Missing ones in test: 
+17.863987955309632
+--->Epoch [27/100], Average Loss: 0.0379 Average Accuracy: 61.8103
+--->Avg Precision: 
+18.556151207570945
+--->Avg Recall: 
+82.3861646520608
+--->Avg F1: 
+30.28814875024189
+--->Missing Ones: 
+17.709337029346077
+Accuracy of the network on the 5794 test images: 62.025537027694426 %
+Missing ones in test: 
+17.822847871159308
+--->Epoch [28/100], Average Loss: 0.0376 Average Accuracy: 62.1901
+--->Avg Precision: 
+18.718838599615072
+--->Avg Recall: 
+82.40993150118726
+--->Avg F1: 
+30.50580548720536
+--->Missing Ones: 
+17.690847141050508
+Accuracy of the network on the 5794 test images: 62.41143579122522 %
+Missing ones in test: 
+17.79162920022637
+--->Epoch [29/100], Average Loss: 0.0374 Average Accuracy: 62.5771
+--->Avg Precision: 
+18.89243395420295
+--->Avg Recall: 
+82.45905856531334
+--->Avg F1: 
+30.738388555492627
+--->Missing Ones: 
+17.65209766858616
+Accuracy of the network on the 5794 test images: 62.79617287556535 %
+Missing ones in test: 
+17.75624448748113
+--->Epoch [30/100], Average Loss: 0.0371 Average Accuracy: 62.9721
+--->Avg Precision: 
+19.068345240394322
+--->Avg Recall: 
+82.50299173971709
+--->Avg F1: 
+30.97467669436552
+--->Missing Ones: 
+17.632038398769627
+Accuracy of the network on the 5794 test images: 63.18909703229689 %
+Missing ones in test: 
+17.724684520063352
+--->Epoch [31/100], Average Loss: 0.0369 Average Accuracy: 63.3847
+--->Avg Precision: 
+19.255392057800048
+--->Avg Recall: 
+82.53223098728904
+--->Avg F1: 
+31.22371606414088
+--->Missing Ones: 
+17.600522052596983
+Accuracy of the network on the 5794 test images: 63.603761185311065 %
+Missing ones in test: 
+17.66662705622607
+--->Epoch [32/100], Average Loss: 0.0367 Average Accuracy: 63.7955
+--->Avg Precision: 
+19.449911751952225
+--->Avg Recall: 
+82.5971452948385
+--->Avg F1: 
+31.48422534602052
+--->Missing Ones: 
+17.55186613834248
+Accuracy of the network on the 5794 test images: 64.00741704504217 %
+Missing ones in test: 
+17.626693650812697
+--->Epoch [33/100], Average Loss: 0.0364 Average Accuracy: 64.2012
+--->Avg Precision: 
+19.642170359603988
+--->Avg Recall: 
+82.64943532078833
+--->Avg F1: 
+31.738757419808806
+--->Missing Ones: 
+17.51754056300636
+Accuracy of the network on the 5794 test images: 64.38059265553223 %
+Missing ones in test: 
+17.59719091094023
+--->Epoch [34/100], Average Loss: 0.0362 Average Accuracy: 64.5730
+--->Avg Precision: 
+19.822425893064164
+--->Avg Recall: 
+82.68712127569945
+--->Avg F1: 
+31.97713480686659
+--->Missing Ones: 
+17.489826122690587
+Accuracy of the network on the 5794 test images: 64.7263305098997 %
+Missing ones in test: 
+17.579120747096326
+--->Epoch [35/100], Average Loss: 0.0360 Average Accuracy: 64.9180
+--->Avg Precision: 
+19.989777286565843
+--->Avg Recall: 
+82.71434422674506
+--->Avg F1: 
+32.19649264643421
+--->Missing Ones: 
+17.474943668681586
+Accuracy of the network on the 5794 test images: 65.05165600134532 %
+Missing ones in test: 
+17.55789813436041
+--->Epoch [36/100], Average Loss: 0.0358 Average Accuracy: 65.2576
+--->Avg Precision: 
+20.15488118842885
+--->Avg Recall: 
+82.7119384924765
+--->Avg F1: 
+32.4098376313209
+--->Missing Ones: 
+17.470333536192964
+Accuracy of the network on the 5794 test images: 65.3932450014604 %
+Missing ones in test: 
+17.53413231934429
+--->Epoch [37/100], Average Loss: 0.0356 Average Accuracy: 65.6038
+--->Avg Precision: 
+20.33209224656189
+--->Avg Recall: 
+82.76623381940152
+--->Avg F1: 
+32.64250246232328
+--->Missing Ones: 
+17.431994612547395
+Accuracy of the network on the 5794 test images: 65.73533186408575 %
+Missing ones in test: 
+17.518854832250188
+--->Epoch [38/100], Average Loss: 0.0354 Average Accuracy: 65.9587
+--->Avg Precision: 
+20.512052217895018
+--->Avg Recall: 
+82.77382067927918
+--->Avg F1: 
+32.87494359661702
+--->Missing Ones: 
+17.419947693266117
+Accuracy of the network on the 5794 test images: 66.12266889709073 %
+Missing ones in test: 
+17.532145061839962
+--->Epoch [39/100], Average Loss: 0.0352 Average Accuracy: 66.3411
+--->Avg Precision: 
+20.70475696267134
+--->Avg Recall: 
+82.76613704818813
+--->Avg F1: 
+33.12202024547133
+--->Missing Ones: 
+17.430875514676853
+Accuracy of the network on the 5794 test images: 66.54352867245515 %
+Missing ones in test: 
+17.56200001614221
+--->Epoch [40/100], Average Loss: 0.0351 Average Accuracy: 66.7657
+--->Avg Precision: 
+20.92083828613526
+--->Avg Recall: 
+82.73814983192865
+--->Avg F1: 
+33.394725297548334
+--->Missing Ones: 
+17.462745275295735
+Accuracy of the network on the 5794 test images: 67.00272386111185 %
+Missing ones in test: 
+17.604955719814434
+--->Epoch [41/100], Average Loss: 0.0349 Average Accuracy: 67.2232
+--->Avg Precision: 
+21.150477012334296
+--->Avg Recall: 
+82.64615128543323
+--->Avg F1: 
+33.679343382106765
+--->Missing Ones: 
+17.54806056444954
+Accuracy of the network on the 5794 test images: 67.48382500022127 %
+Missing ones in test: 
+17.67528368487807
+--->Epoch [42/100], Average Loss: 0.0347 Average Accuracy: 67.6921
+--->Avg Precision: 
+21.395136345077344
+--->Avg Recall: 
+82.57774504648592
+--->Avg F1: 
+33.98279299378666
+--->Missing Ones: 
+17.613569947635543
+Accuracy of the network on the 5794 test images: 67.94274359859445 %
+Missing ones in test: 
+17.770056326809502
+--->Epoch [43/100], Average Loss: 0.0346 Average Accuracy: 68.1260
+--->Avg Precision: 
+21.62500620777477
+--->Avg Recall: 
+82.48356142121389
+--->Avg F1: 
+34.263221761822415
+--->Missing Ones: 
+17.71175795678473
+Accuracy of the network on the 5794 test images: 68.35724179743853 %
+Missing ones in test: 
+17.86768930904331
+--->Epoch [44/100], Average Loss: 0.0344 Average Accuracy: 68.5343
+--->Avg Precision: 
+21.84343785621159
+--->Avg Recall: 
+82.39653527614983
+--->Avg F1: 
+34.53038284870931
+--->Missing Ones: 
+17.811491380528686
+Accuracy of the network on the 5794 test images: 68.73390244550063 %
+Missing ones in test: 
+17.977191893337288
+--->Epoch [45/100], Average Loss: 0.0343 Average Accuracy: 68.8907
+--->Avg Precision: 
+22.035882909195582
+--->Avg Recall: 
+82.30234340555353
+--->Avg F1: 
+34.76195919298337
+--->Missing Ones: 
+17.906997241696867
+Accuracy of the network on the 5794 test images: 69.05181531734863 %
+Missing ones in test: 
+18.09227089422201
+--->Epoch [46/100], Average Loss: 0.0341 Average Accuracy: 69.1770
+--->Avg Precision: 
+22.19024367219926
+--->Avg Recall: 
+82.1985701339913
+--->Avg F1: 
+34.94406845512003
+--->Missing Ones: 
+18.00700682280561
+Accuracy of the network on the 5794 test images: 69.30589115176619 %
+Missing ones in test: 
+18.204709193047695
+--->Epoch [47/100], Average Loss: 0.0340 Average Accuracy: 69.4061
+--->Avg Precision: 
+22.31279289123357
+--->Avg Recall: 
+82.1191423786156
+--->Avg F1: 
+35.088934798350884
+--->Missing Ones: 
+18.108361240681084
+Accuracy of the network on the 5794 test images: 69.52301452430895 %
+Missing ones in test: 
+18.29189113376625
+--->Epoch [48/100], Average Loss: 0.0339 Average Accuracy: 69.6030
+--->Avg Precision: 
+22.421541314617205
+--->Avg Recall: 
+82.04318481113985
+--->Avg F1: 
+35.21677637822483
+--->Missing Ones: 
+18.179229575876878
+Accuracy of the network on the 5794 test images: 69.70993423789419 %
+Missing ones in test: 
+18.359585758645906
+--->Epoch [49/100], Average Loss: 0.0338 Average Accuracy: 69.7700
+--->Avg Precision: 
+22.515363652398086
+--->Avg Recall: 
+81.99369317193867
+--->Avg F1: 
+35.32771194839434
+--->Missing Ones: 
+18.23209713276381
+Accuracy of the network on the 5794 test images: 69.87362036766594 %
+Missing ones in test: 
+18.425253677462862
+--->Epoch [50/100], Average Loss: 0.0336 Average Accuracy: 69.9055
+--->Avg Precision: 
+22.58872352365977
+--->Avg Recall: 
+81.92254593085187
+--->Avg F1: 
+35.410637988769786
+--->Missing Ones: 
+18.30050578050101
+Accuracy of the network on the 5794 test images: 70.00372843702152 %
+Missing ones in test: 
+18.48093024257059
+--->Epoch [51/100], Average Loss: 0.0335 Average Accuracy: 70.0248
+--->Avg Precision: 
+22.655489124567353
+--->Avg Recall: 
+81.86909762845717
+--->Avg F1: 
+35.487799304666034
+--->Missing Ones: 
+18.356131921701262
+Accuracy of the network on the 5794 test images: 70.12166653390331 %
+Missing ones in test: 
+18.5383595972138
+--->Epoch [52/100], Average Loss: 0.0334 Average Accuracy: 70.1464
+--->Avg Precision: 
+22.725338861321077
+--->Avg Recall: 
+81.82958026636278
+--->Avg F1: 
+35.56995987938665
+--->Missing Ones: 
+18.40907867735454
+Accuracy of the network on the 5794 test images: 70.24342157669739 %
+Missing ones in test: 
+18.585672573488548
+--->Epoch [53/100], Average Loss: 0.0333 Average Accuracy: 70.2686
+--->Avg Precision: 
+22.800398683843948
+--->Avg Recall: 
+81.8168166855098
+--->Avg F1: 
+35.66015978381359
+--->Missing Ones: 
+18.420312208372323
+Accuracy of the network on the 5794 test images: 70.35101519697653 %
+Missing ones in test: 
+18.61652495889008
+--->Epoch [54/100], Average Loss: 0.0332 Average Accuracy: 70.3945
+--->Avg Precision: 
+22.878138687221394
+--->Avg Recall: 
+81.80553040396124
+--->Avg F1: 
+35.75400663051831
+--->Missing Ones: 
+18.45220293701448
+Accuracy of the network on the 5794 test images: 70.490140109574 %
+Missing ones in test: 
+18.65659106088736
+--->Epoch [55/100], Average Loss: 0.0331 Average Accuracy: 70.5394
+--->Avg Precision: 
+22.969585211375126
+--->Avg Recall: 
+81.80016372881622
+--->Avg F1: 
+35.864605308693825
+--->Missing Ones: 
+18.459330432350093
+Accuracy of the network on the 5794 test images: 70.64276262800598 %
+Missing ones in test: 
+18.684086791012987
+--->Epoch [56/100], Average Loss: 0.0330 Average Accuracy: 70.6959
+--->Avg Precision: 
+23.069824729866202
+--->Avg Recall: 
+81.7956680441684
+--->Avg F1: 
+35.986491882818854
+--->Missing Ones: 
+18.4718260190178
+Accuracy of the network on the 5794 test images: 70.78681084764963 %
+Missing ones in test: 
+18.703008358830107
+--->Epoch [57/100], Average Loss: 0.0330 Average Accuracy: 70.8294
+--->Avg Precision: 
+23.15540861035708
+--->Avg Recall: 
+81.79883299651489
+--->Avg F1: 
+36.09110887549969
+--->Missing Ones: 
+18.47653124134654
+Accuracy of the network on the 5794 test images: 70.92029331846386 %
+Missing ones in test: 
+18.694489733843486
+--->Epoch [58/100], Average Loss: 0.0329 Average Accuracy: 70.9785
+--->Avg Precision: 
+23.253261010385234
+--->Avg Recall: 
+81.79242292530456
+--->Avg F1: 
+36.208716080878325
+--->Missing Ones: 
+18.484823891167274
+Accuracy of the network on the 5794 test images: 71.04348663073208 %
+Missing ones in test: 
+18.69381449207817
+--->Epoch [59/100], Average Loss: 0.0328 Average Accuracy: 71.0902
+--->Avg Precision: 
+23.327913822018182
+--->Avg Recall: 
+81.79997814875999
+--->Avg F1: 
+36.30023778389714
+--->Missing Ones: 
+18.483883937118694
+Accuracy of the network on the 5794 test images: 71.14394422169708 %
+Missing ones in test: 
+18.687234322060352
+--->Epoch [60/100], Average Loss: 0.0327 Average Accuracy: 71.1901
+--->Avg Precision: 
+23.39602880549096
+--->Avg Recall: 
+81.81727871748305
+--->Avg F1: 
+36.385378526641
+--->Missing Ones: 
+18.47509067782384
+Accuracy of the network on the 5794 test images: 71.23140206933788 %
+Missing ones in test: 
+18.670968851740014
+--->Epoch [61/100], Average Loss: 0.0327 Average Accuracy: 71.2495
+--->Avg Precision: 
+23.43974988233283
+--->Avg Recall: 
+81.84913960981466
+--->Avg F1: 
+36.44105947372051
+--->Missing Ones: 
+18.448675925388294
+Accuracy of the network on the 5794 test images: 71.2848393121089 %
+Missing ones in test: 
+18.639918945864007
+--->Epoch [62/100], Average Loss: 0.0326 Average Accuracy: 71.2850
+--->Avg Precision: 
+23.46882215709105
+--->Avg Recall: 
+81.87015816835095
+--->Avg F1: 
+36.478818123573504
+--->Missing Ones: 
+18.42180772834964
+Accuracy of the network on the 5794 test images: 71.30890266677287 %
+Missing ones in test: 
+18.608069683723734
+--->Epoch [63/100], Average Loss: 0.0325 Average Accuracy: 71.3083
+--->Avg Precision: 
+23.489879653762458
+--->Avg Recall: 
+81.90794901551308
+--->Avg F1: 
+36.50761174084016
+--->Missing Ones: 
+18.385310157541316
+Accuracy of the network on the 5794 test images: 71.32472363098874 %
+Missing ones in test: 
+18.58117661424455
+--->Epoch [64/100], Average Loss: 0.0325 Average Accuracy: 71.3053
+--->Avg Precision: 
+23.497622487988792
+--->Avg Recall: 
+81.9783836775768
+--->Avg F1: 
+36.5231685034142
+--->Missing Ones: 
+18.32600819961327
+Accuracy of the network on the 5794 test images: 71.3081282139791 %
+Missing ones in test: 
+18.531951932336803
+--->Epoch [65/100], Average Loss: 0.0324 Average Accuracy: 71.2895
+--->Avg Precision: 
+23.49491900640284
+--->Avg Recall: 
+82.03358544876892
+--->Avg F1: 
+36.52566924318955
+--->Missing Ones: 
+18.277080933247337
+Accuracy of the network on the 5794 test images: 71.28577971907279 %
+Missing ones in test: 
+18.47512688599391
+--->Epoch [66/100], Average Loss: 0.0324 Average Accuracy: 71.2577
+--->Avg Precision: 
+23.4861150502024
+--->Avg Recall: 
+82.1121720894853
+--->Avg F1: 
+36.52387782844326
+--->Missing Ones: 
+18.196638448291523
+Accuracy of the network on the 5794 test images: 71.24744430578052 %
+Missing ones in test: 
+18.381602712276287
+--->Epoch [67/100], Average Loss: 0.0323 Average Accuracy: 71.2247
+--->Avg Precision: 
+23.478769912364736
+--->Avg Recall: 
+82.2036512424602
+--->Avg F1: 
+36.52450617050457
+--->Missing Ones: 
+18.106769906684328
+Accuracy of the network on the 5794 test images: 71.21447474398802 %
+Missing ones in test: 
+18.316686444985297
+--->Epoch [68/100], Average Loss: 0.0323 Average Accuracy: 71.1814
+--->Avg Precision: 
+23.464875220393953
+--->Avg Recall: 
+82.31125172367204
+--->Avg F1: 
+36.517090784096354
+--->Missing Ones: 
+18.011138520195875
+Accuracy of the network on the 5794 test images: 71.16712248745388 %
+Missing ones in test: 
+18.237939934454175
+--->Epoch [69/100], Average Loss: 0.0322 Average Accuracy: 71.1450
+--->Avg Precision: 
+23.453443366320936
+--->Avg Recall: 
+82.38535672482796
+--->Avg F1: 
+36.50957080771751
+--->Missing Ones: 
+17.92705307159239
+Accuracy of the network on the 5794 test images: 71.13265933813054 %
+Missing ones in test: 
+18.153621127438736
+--->Epoch [70/100], Average Loss: 0.0322 Average Accuracy: 71.1196
+--->Avg Precision: 
+23.44534013896313
+--->Avg Recall: 
+82.45176755923413
+--->Avg F1: 
+36.50658224713373
+--->Missing Ones: 
+17.872071765687288
+Accuracy of the network on the 5794 test images: 71.1058300806316 %
+Missing ones in test: 
+18.10607198799097
+--->Epoch [71/100], Average Loss: 0.0321 Average Accuracy: 71.0847
+--->Avg Precision: 
+23.430343463764714
+--->Avg Recall: 
+82.51346657246269
+--->Avg F1: 
+36.49394770086878
+--->Missing Ones: 
+17.815329347274883
+Accuracy of the network on the 5794 test images: 71.06107777276229 %
+Missing ones in test: 
+18.03168354788024
+--->Epoch [72/100], Average Loss: 0.0321 Average Accuracy: 71.0568
+--->Avg Precision: 
+23.420617228240573
+--->Avg Recall: 
+82.55861189976109
+--->Avg F1: 
+36.48697148988238
+--->Missing Ones: 
+17.7632565653718
+Accuracy of the network on the 5794 test images: 71.0325336555057 %
+Missing ones in test: 
+17.96835121093921
+--->Epoch [73/100], Average Loss: 0.0321 Average Accuracy: 71.0211
+--->Avg Precision: 
+23.405288658560266
+--->Avg Recall: 
+82.6113918909416
+--->Avg F1: 
+36.4738731388053
+--->Missing Ones: 
+17.715137884815938
+Accuracy of the network on the 5794 test images: 70.99989600205342 %
+Missing ones in test: 
+17.926604041536468
+--->Epoch [74/100], Average Loss: 0.0320 Average Accuracy: 70.9998
+--->Avg Precision: 
+23.39542033506799
+--->Avg Recall: 
+82.64019986796062
+--->Avg F1: 
+36.4654173107929
+--->Missing Ones: 
+17.688661330808625
+Accuracy of the network on the 5794 test images: 70.97566669321934 %
+Missing ones in test: 
+17.885783535998833
+--->Epoch [75/100], Average Loss: 0.0320 Average Accuracy: 70.9752
+--->Avg Precision: 
+23.385401934286417
+--->Avg Recall: 
+82.68276167118059
+--->Avg F1: 
+36.45578140327663
+--->Missing Ones: 
+17.650677815388757
+Accuracy of the network on the 5794 test images: 70.94784171069985 %
+Missing ones in test: 
+17.85039823223312
+--->Epoch [76/100], Average Loss: 0.0320 Average Accuracy: 70.9535
+--->Avg Precision: 
+23.37681691801065
+--->Avg Recall: 
+82.72563421558557
+--->Avg F1: 
+36.449848483908816
+--->Missing Ones: 
+17.610207174336086
+Accuracy of the network on the 5794 test images: 70.91719550728871 %
+Missing ones in test: 
+17.814743216643368
+--->Epoch [77/100], Average Loss: 0.0319 Average Accuracy: 70.9277
+--->Avg Precision: 
+23.36481300093613
+--->Avg Recall: 
+82.75853013343412
+--->Avg F1: 
+36.439137048739845
+--->Missing Ones: 
+17.574319812877054
+Accuracy of the network on the 5794 test images: 70.89783418744412 %
+Missing ones in test: 
+17.775051503999233
+--->Epoch [78/100], Average Loss: 0.0319 Average Accuracy: 70.9179
+--->Avg Precision: 
+23.360840167282216
+--->Avg Recall: 
+82.77155173957492
+--->Avg F1: 
+36.43614033883027
+--->Missing Ones: 
+17.560404617732647
+Accuracy of the network on the 5794 test images: 70.88848543586202 %
+Missing ones in test: 
+17.76623023972793
+--->Epoch [79/100], Average Loss: 0.0319 Average Accuracy: 70.9009
+--->Avg Precision: 
+23.353090942798303
+--->Avg Recall: 
+82.79320026628973
+--->Avg F1: 
+36.42796959857471
+--->Missing Ones: 
+17.53734883906025
+Accuracy of the network on the 5794 test images: 70.87194533690909 %
+Missing ones in test: 
+17.737908072216552
+--->Epoch [80/100], Average Loss: 0.0318 Average Accuracy: 70.8893
+--->Avg Precision: 
+23.34899818510946
+--->Avg Recall: 
+82.8058931258397
+--->Avg F1: 
+36.42393752292228
+--->Missing Ones: 
+17.520501547890202
+Accuracy of the network on the 5794 test images: 70.85606905463654 %
+Missing ones in test: 
+17.704287876527786
+--->Epoch [81/100], Average Loss: 0.0318 Average Accuracy: 70.8675
+--->Avg Precision: 
+23.338127472437545
+--->Avg Recall: 
+82.8388121848399
+--->Avg F1: 
+36.41434273289724
+--->Missing Ones: 
+17.491545626089604
+Accuracy of the network on the 5794 test images: 70.83803536815272 %
+Missing ones in test: 
+17.67896493347357
+--->Epoch [82/100], Average Loss: 0.0318 Average Accuracy: 70.8659
+--->Avg Precision: 
+23.338314468265423
+--->Avg Recall: 
+82.85010971414995
+--->Avg F1: 
+36.41584597069185
+--->Missing Ones: 
+17.48177857660824
+Accuracy of the network on the 5794 test images: 70.82907384296755 %
+Missing ones in test: 
+17.668730194311276
+--->Epoch [83/100], Average Loss: 0.0318 Average Accuracy: 70.8501
+--->Avg Precision: 
+23.331278727963415
+--->Avg Recall: 
+82.8720812761929
+--->Avg F1: 
+36.409793395174475
+--->Missing Ones: 
+17.461941034129396
+Accuracy of the network on the 5794 test images: 70.82166122336987 %
+Missing ones in test: 
+17.64470102529451
+--->Epoch [84/100], Average Loss: 0.0317 Average Accuracy: 70.8499
+--->Avg Precision: 
+23.333038735718173
+--->Avg Recall: 
+82.88269362132958
+--->Avg F1: 
+36.41261143821134
+--->Missing Ones: 
+17.451095718470885
+Accuracy of the network on the 5794 test images: 70.81734641494737 %
+Missing ones in test: 
+17.636481145921266
+--->Epoch [85/100], Average Loss: 0.0317 Average Accuracy: 70.8386
+--->Avg Precision: 
+23.330153085475427
+--->Avg Recall: 
+82.912977483916
+--->Avg F1: 
+36.41160223348234
+--->Missing Ones: 
+17.421405959625442
+Accuracy of the network on the 5794 test images: 70.80102758822125 %
+Missing ones in test: 
+17.606868221007048
+--->Epoch [86/100], Average Loss: 0.0317 Average Accuracy: 70.8324
+--->Avg Precision: 
+23.32843586103665
+--->Avg Recall: 
+82.92058350455424
+--->Avg F1: 
+36.41002406096267
+--->Missing Ones: 
+17.405927473068793
+Accuracy of the network on the 5794 test images: 70.8070572564014 %
+Missing ones in test: 
+17.606406798770525
+--->Epoch [87/100], Average Loss: 0.0317 Average Accuracy: 70.8339
+--->Avg Precision: 
+23.32883841089725
+--->Avg Recall: 
+82.91977872397801
+--->Avg F1: 
+36.41066208684504
+--->Missing Ones: 
+17.405812552790863
+Accuracy of the network on the 5794 test images: 70.80661471194779 %
+Missing ones in test: 
+17.601930380930675
+--->Epoch [88/100], Average Loss: 0.0317 Average Accuracy: 70.8268
+--->Avg Precision: 
+23.32706389493364
+--->Avg Recall: 
+82.94334428738925
+--->Avg F1: 
+36.410772927056705
+--->Missing Ones: 
+17.386469275773177
+Accuracy of the network on the 5794 test images: 70.79112565607215 %
+Missing ones in test: 
+17.57581272559494
+--->Epoch [89/100], Average Loss: 0.0316 Average Accuracy: 70.8188
+--->Avg Precision: 
+23.32482452605459
+--->Avg Recall: 
+82.96194377541703
+--->Avg F1: 
+36.410002656463895
+--->Missing Ones: 
+17.36820065085328
+Accuracy of the network on the 5794 test images: 70.79090438384537 %
+Missing ones in test: 
+17.561094518023125
+--->Epoch [90/100], Average Loss: 0.0316 Average Accuracy: 70.8102
+--->Avg Precision: 
+23.32196370637072
+--->Avg Recall: 
+82.97575885667243
+--->Avg F1: 
+36.408640001101745
+--->Missing Ones: 
+17.353975498813693
+Accuracy of the network on the 5794 test images: 70.78930016020111 %
+Missing ones in test: 
+17.547254074024487
+--->Epoch [91/100], Average Loss: 0.0316 Average Accuracy: 70.8076
+--->Avg Precision: 
+23.321045986273038
+--->Avg Recall: 
+82.98432686394675
+--->Avg F1: 
+36.40767993599336
+--->Missing Ones: 
+17.342777730808773
+Accuracy of the network on the 5794 test images: 70.78542789623216 %
+Missing ones in test: 
+17.5323833943424
+--->Epoch [92/100], Average Loss: 0.0316 Average Accuracy: 70.8140
+--->Avg Precision: 
+23.326140280489092
+--->Avg Recall: 
+82.99312907758735
+--->Avg F1: 
+36.41405835792466
+--->Missing Ones: 
+17.342376330110685
+Accuracy of the network on the 5794 test images: 70.79516387421116 %
+Missing ones in test: 
+17.53235291860533
+--->Epoch [93/100], Average Loss: 0.0316 Average Accuracy: 70.8180
+--->Avg Precision: 
+23.329347802427254
+--->Avg Recall: 
+82.9953185666568
+--->Avg F1: 
+36.41882958163868
+--->Missing Ones: 
+17.334274940762675
+Accuracy of the network on the 5794 test images: 70.78979802271138 %
+Missing ones in test: 
+17.529328908349623
+--->Epoch [94/100], Average Loss: 0.0316 Average Accuracy: 70.8144
+--->Avg Precision: 
+23.33110684969326
+--->Avg Recall: 
+83.02650213589067
+--->Avg F1: 
+36.42464454381907
+--->Missing Ones: 
+17.310595091750244
+Accuracy of the network on the 5794 test images: 70.78498535177859 %
+Missing ones in test: 
+17.512927965398795
+--->Epoch [95/100], Average Loss: 0.0315 Average Accuracy: 70.8092
+--->Avg Precision: 
+23.33015054754153
+--->Avg Recall: 
+83.02603086761204
+--->Avg F1: 
+36.42283926658835
+--->Missing Ones: 
+17.295016373291375
+Accuracy of the network on the 5794 test images: 70.78609171291255 %
+Missing ones in test: 
+17.50853122050289
+--->Epoch [96/100], Average Loss: 0.0315 Average Accuracy: 70.8108
+--->Avg Precision: 
+23.332366360863787
+--->Avg Recall: 
+83.04317752287452
+--->Avg F1: 
+36.42692587673904
+--->Missing Ones: 
+17.28737079401369
+Accuracy of the network on the 5794 test images: 70.78216413088697 %
+Missing ones in test: 
+17.49568067802572
+--->Epoch [97/100], Average Loss: 0.0315 Average Accuracy: 70.8139
+--->Avg Precision: 
+23.334932717488247
+--->Avg Recall: 
+83.04853557920546
+--->Avg F1: 
+36.42942466946803
+--->Missing Ones: 
+17.278802824580247
+Accuracy of the network on the 5794 test images: 70.78697680181975 %
+Missing ones in test: 
+17.48852863719441
+--->Epoch [98/100], Average Loss: 0.0315 Average Accuracy: 70.8124
+--->Avg Precision: 
+23.337982305020454
+--->Avg Recall: 
+83.07049450578664
+--->Avg F1: 
+36.43541907299425
+--->Missing Ones: 
+17.26229592623205
+Accuracy of the network on the 5794 test images: 70.79029588522167 %
+Missing ones in test: 
+17.486045814426998
+--->Epoch [99/100], Average Loss: 0.0315 Average Accuracy: 70.8138
+--->Avg Precision: 
+23.338437332891587
+--->Avg Recall: 
+83.06637720903451
+--->Avg F1: 
+36.43754845597083
+--->Missing Ones: 
+17.260666655250642
+Accuracy of the network on the 5794 test images: 70.78752998238674 %
+Missing ones in test: 
+17.473669960752417
+--->Epoch [100/100], Average Loss: 0.0315 Average Accuracy: 70.8106
+--->Avg Precision: 
+23.33826235686691
+--->Avg Recall: 
+83.08416427597811
+--->Avg F1: 
+36.43879789911356
+--->Missing Ones: 
+17.246392774351317
+Accuracy of the network on the 5794 test images: 70.78631298513938 %
+Missing ones in test: 
+17.462785077909427
