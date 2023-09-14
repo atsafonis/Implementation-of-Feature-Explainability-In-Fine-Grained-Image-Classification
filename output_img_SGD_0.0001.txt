@@ -1,0 +1,156 @@
+Saved
+--->Epoch [1/100], Average Loss: 0.2017 Average Accuracy: 75.8930 Average Precision: 10.4094 Average Recall: 18.3133 Average F1: 13.2701 Average Missing: 83.2671 Average Test Accuracy: 75.9536 Average Test Precision: 10.7786 Average Test Recall: 18.8577 Average Test F1: 13.6926 Average Test Missing: 82.5648
+Saved
+--->Epoch [2/100], Average Loss: 0.1798 Average Accuracy: 76.0901 Average Precision: 11.0565 Average Recall: 19.5034 Average F1: 14.1086 Average Missing: 81.9956 Average Test Accuracy: 76.0565 Average Test Precision: 11.4393 Average Test Recall: 20.2136 Average Test F1: 14.5836 Average Test Missing: 81.1434
+Saved
+--->Epoch [3/100], Average Loss: 0.1619 Average Accuracy: 76.2570 Average Precision: 11.8031 Average Recall: 20.9724 Average F1: 15.0999 Average Missing: 80.4304 Average Test Accuracy: 76.2137 Average Test Precision: 12.2196 Average Test Recall: 21.7956 Average Test F1: 15.6302 Average Test Missing: 79.4892
+Saved
+--->Epoch [4/100], Average Loss: 0.1475 Average Accuracy: 76.4039 Average Precision: 12.5550 Average Recall: 22.5128 Average F1: 16.1164 Average Missing: 78.8301 Average Test Accuracy: 76.4984 Average Test Precision: 13.0314 Average Test Recall: 23.2664 Average Test F1: 16.6733 Average Test Missing: 77.9488
+Saved
+--->Epoch [5/100], Average Loss: 0.1356 Average Accuracy: 76.5356 Average Precision: 13.4576 Average Recall: 24.4823 Average F1: 17.3627 Average Missing: 76.7835 Average Test Accuracy: 76.5080 Average Test Precision: 13.9370 Average Test Recall: 25.5010 Average Test F1: 17.9884 Average Test Missing: 75.6354
+Saved
+--->Epoch [6/100], Average Loss: 0.1258 Average Accuracy: 76.6813 Average Precision: 14.3622 Average Recall: 26.4967 Average F1: 18.6215 Average Missing: 74.6598 Average Test Accuracy: 76.7221 Average Test Precision: 14.8542 Average Test Recall: 27.4544 Average Test F1: 19.2399 Average Test Missing: 73.5843
+Saved
+--->Epoch [7/100], Average Loss: 0.1175 Average Accuracy: 76.7860 Average Precision: 15.2674 Average Recall: 28.6902 Average F1: 19.9230 Average Missing: 72.3855 Average Test Accuracy: 76.6844 Average Test Precision: 15.6887 Average Test Recall: 29.7957 Average Test F1: 20.5141 Average Test Missing: 71.1403
+Saved
+--->Epoch [8/100], Average Loss: 0.1105 Average Accuracy: 76.8803 Average Precision: 16.1192 Average Recall: 30.8223 Average F1: 21.1622 Average Missing: 70.1287 Average Test Accuracy: 76.8826 Average Test Precision: 16.4528 Average Test Recall: 31.4803 Average Test F1: 21.5677 Average Test Missing: 69.3610
+Saved
+--->Epoch [9/100], Average Loss: 0.1048 Average Accuracy: 76.9169 Average Precision: 16.8169 Average Recall: 32.7440 Average F1: 22.2128 Average Missing: 68.1334 Average Test Accuracy: 76.8077 Average Test Precision: 17.1393 Average Test Recall: 33.6715 Average Test F1: 22.6696 Average Test Missing: 67.1195
+Saved
+--->Epoch [10/100], Average Loss: 0.0999 Average Accuracy: 76.9812 Average Precision: 17.4887 Average Recall: 34.5808 Average F1: 23.2226 Average Missing: 66.2037 Average Test Accuracy: 76.8934 Average Test Precision: 17.7461 Average Test Recall: 35.3018 Average Test F1: 23.5703 Average Test Missing: 65.4307
+Saved
+--->Epoch [11/100], Average Loss: 0.0957 Average Accuracy: 77.0049 Average Precision: 18.0809 Average Recall: 36.3521 Average F1: 24.1419 Average Missing: 64.3767 Average Test Accuracy: 76.8591 Average Test Precision: 18.2479 Average Test Recall: 36.9817 Average Test F1: 24.3866 Average Test Missing: 63.6701
+Saved
+--->Epoch [12/100], Average Loss: 0.0920 Average Accuracy: 76.9909 Average Precision: 18.5401 Average Recall: 37.8526 Average F1: 24.8823 Average Missing: 62.8411 Average Test Accuracy: 76.9420 Average Test Precision: 18.7073 Average Test Recall: 38.2389 Average Test F1: 25.0718 Average Test Missing: 62.3582
+Saved
+--->Epoch [13/100], Average Loss: 0.0890 Average Accuracy: 76.9692 Average Precision: 18.9575 Average Recall: 39.2820 Average F1: 25.5637 Average Missing: 61.2966 Average Test Accuracy: 76.9449 Average Test Precision: 19.1328 Average Test Recall: 39.6441 Average Test F1: 25.7573 Average Test Missing: 60.9076
+Saved
+--->Epoch [14/100], Average Loss: 0.0863 Average Accuracy: 76.9580 Average Precision: 19.3280 Average Recall: 40.6009 Average F1: 26.1815 Average Missing: 59.9625 Average Test Accuracy: 76.8210 Average Test Precision: 19.4935 Average Test Recall: 41.2592 Average Test F1: 26.4239 Average Test Missing: 59.2349
+Saved
+--->Epoch [15/100], Average Loss: 0.0840 Average Accuracy: 76.9342 Average Precision: 19.6851 Average Recall: 41.8999 Average F1: 26.7777 Average Missing: 58.6134 Average Test Accuracy: 76.7603 Average Test Precision: 19.7374 Average Test Recall: 42.3080 Average Test F1: 26.8632 Average Test Missing: 58.1458
+Saved
+--->Epoch [16/100], Average Loss: 0.0820 Average Accuracy: 76.8838 Average Precision: 19.9500 Average Recall: 42.9975 Average F1: 27.2467 Average Missing: 57.4766 Average Test Accuracy: 76.7815 Average Test Precision: 20.1198 Average Test Recall: 43.6253 Average Test F1: 27.4846 Average Test Missing: 56.7989
+Saved
+--->Epoch [17/100], Average Loss: 0.0802 Average Accuracy: 76.8492 Average Precision: 20.2233 Average Recall: 44.1266 Average F1: 27.7291 Average Missing: 56.3045 Average Test Accuracy: 76.7762 Average Test Precision: 20.3182 Average Test Recall: 44.3746 Average Test F1: 27.8189 Average Test Missing: 56.0362
+Saved
+--->Epoch [18/100], Average Loss: 0.0786 Average Accuracy: 76.7809 Average Precision: 20.4528 Average Recall: 45.1815 Average F1: 28.1480 Average Missing: 55.2672 Average Test Accuracy: 76.4837 Average Test Precision: 20.4557 Average Test Recall: 45.8855 Average Test F1: 28.2421 Average Test Missing: 54.4854
+Saved
+--->Epoch [19/100], Average Loss: 0.0772 Average Accuracy: 76.7525 Average Precision: 20.6722 Average Recall: 46.1105 Average F1: 28.5381 Average Missing: 54.2917 Average Test Accuracy: 76.7068 Average Test Precision: 20.7320 Average Test Recall: 46.1587 Average Test F1: 28.5565 Average Test Missing: 54.2228
+Saved
+--->Epoch [20/100], Average Loss: 0.0760 Average Accuracy: 76.6942 Average Precision: 20.8015 Average Recall: 46.8188 Average F1: 28.7962 Average Missing: 53.5273 Average Test Accuracy: 76.5976 Average Test Precision: 20.8437 Average Test Recall: 46.9720 Average Test F1: 28.8181 Average Test Missing: 53.4089
+Saved
+--->Epoch [21/100], Average Loss: 0.0750 Average Accuracy: 76.6395 Average Precision: 20.9578 Average Recall: 47.6313 Average F1: 29.1004 Average Missing: 52.6950 Average Test Accuracy: 76.5369 Average Test Precision: 20.9892 Average Test Recall: 47.7580 Average Test F1: 29.1063 Average Test Missing: 52.5945
+Saved
+--->Epoch [22/100], Average Loss: 0.0740 Average Accuracy: 76.5989 Average Precision: 21.1052 Average Recall: 48.3516 Average F1: 29.3772 Average Missing: 52.0266 Average Test Accuracy: 76.3883 Average Test Precision: 21.1068 Average Test Recall: 48.7607 Average Test F1: 29.4052 Average Test Missing: 51.5690
+Saved
+--->Epoch [23/100], Average Loss: 0.0731 Average Accuracy: 76.5564 Average Precision: 21.2793 Average Recall: 49.1736 Average F1: 29.6970 Average Missing: 51.1564 Average Test Accuracy: 76.3734 Average Test Precision: 21.2181 Average Test Recall: 49.2661 Average Test F1: 29.6069 Average Test Missing: 51.0773
+Saved
+--->Epoch [24/100], Average Loss: 0.0724 Average Accuracy: 76.4959 Average Precision: 21.3408 Average Recall: 49.6513 Average F1: 29.8429 Average Missing: 50.6858 Average Test Accuracy: 76.3448 Average Test Precision: 21.3125 Average Test Recall: 49.7604 Average Test F1: 29.7884 Average Test Missing: 50.5595
+Saved
+--->Epoch [25/100], Average Loss: 0.0717 Average Accuracy: 76.4290 Average Precision: 21.4326 Average Recall: 50.2656 Average F1: 30.0449 Average Missing: 50.0480 Average Test Accuracy: 76.3310 Average Test Precision: 21.4549 Average Test Recall: 50.3937 Average Test F1: 30.0417 Average Test Missing: 49.9169
+Saved
+--->Epoch [26/100], Average Loss: 0.0711 Average Accuracy: 76.3639 Average Precision: 21.5091 Average Recall: 50.8262 Average F1: 30.2195 Average Missing: 49.4984 Average Test Accuracy: 76.2367 Average Test Precision: 21.4765 Average Test Recall: 50.8293 Average Test F1: 30.1398 Average Test Missing: 49.4909
+Saved
+--->Epoch [27/100], Average Loss: 0.0705 Average Accuracy: 76.3300 Average Precision: 21.5774 Average Recall: 51.2738 Average F1: 30.3642 Average Missing: 49.0826 Average Test Accuracy: 76.3016 Average Test Precision: 21.5960 Average Test Recall: 51.0882 Average Test F1: 30.3043 Average Test Missing: 49.2422
+Saved
+--->Epoch [28/100], Average Loss: 0.0700 Average Accuracy: 76.2904 Average Precision: 21.6801 Average Recall: 51.8338 Average F1: 30.5651 Average Missing: 48.5047 Average Test Accuracy: 76.1132 Average Test Precision: 21.5837 Average Test Recall: 51.7457 Average Test F1: 30.4074 Average Test Missing: 48.5685
+Saved
+--->Epoch [29/100], Average Loss: 0.0696 Average Accuracy: 76.2117 Average Precision: 21.6760 Average Recall: 52.1051 Average F1: 30.6063 Average Missing: 48.2340 Average Test Accuracy: 76.0622 Average Test Precision: 21.6502 Average Test Recall: 52.2300 Average Test F1: 30.5582 Average Test Missing: 48.0690
+Saved
+--->Epoch [30/100], Average Loss: 0.0691 Average Accuracy: 76.2039 Average Precision: 21.7892 Average Recall: 52.6219 Average F1: 30.8088 Average Missing: 47.7184 Average Test Accuracy: 75.9038 Average Test Precision: 21.6316 Average Test Recall: 52.7305 Average Test F1: 30.6243 Average Test Missing: 47.5765
+Saved
+--->Epoch [31/100], Average Loss: 0.0687 Average Accuracy: 76.1586 Average Precision: 21.8160 Average Recall: 52.9149 Average F1: 30.8849 Average Missing: 47.3809 Average Test Accuracy: 76.0224 Average Test Precision: 21.7514 Average Test Recall: 52.7971 Average Test F1: 30.7558 Average Test Missing: 47.4979
+Saved
+--->Epoch [32/100], Average Loss: 0.0685 Average Accuracy: 76.0860 Average Precision: 21.8465 Average Recall: 53.3171 Average F1: 30.9847 Average Missing: 47.0031 Average Test Accuracy: 75.9980 Average Test Precision: 21.8099 Average Test Recall: 53.1468 Average Test F1: 30.8743 Average Test Missing: 47.1303
+Saved
+--->Epoch [33/100], Average Loss: 0.0681 Average Accuracy: 76.0677 Average Precision: 21.8986 Average Recall: 53.6245 Average F1: 31.0879 Average Missing: 46.7115 Average Test Accuracy: 75.9759 Average Test Precision: 21.8536 Average Test Recall: 53.4177 Average Test F1: 30.9635 Average Test Missing: 46.8816
+Saved
+--->Epoch [34/100], Average Loss: 0.0678 Average Accuracy: 76.0228 Average Precision: 21.9041 Average Recall: 53.8349 Average F1: 31.1284 Average Missing: 46.5148 Average Test Accuracy: 75.8763 Average Test Precision: 21.8262 Average Test Recall: 53.6900 Average Test F1: 30.9826 Average Test Missing: 46.6026
+Saved
+--->Epoch [35/100], Average Loss: 0.0675 Average Accuracy: 75.9692 Average Precision: 21.9412 Average Recall: 54.2062 Average F1: 31.2299 Average Missing: 46.1025 Average Test Accuracy: 75.8848 Average Test Precision: 21.8959 Average Test Recall: 53.9588 Average Test F1: 31.0980 Average Test Missing: 46.3251
+Saved
+--->Epoch [36/100], Average Loss: 0.0672 Average Accuracy: 75.9648 Average Precision: 22.0095 Average Recall: 54.4929 Average F1: 31.3465 Average Missing: 45.8356 Average Test Accuracy: 75.8291 Average Test Precision: 21.9252 Average Test Recall: 54.2950 Average Test F1: 31.1832 Average Test Missing: 45.9923
+Saved
+--->Epoch [37/100], Average Loss: 0.0670 Average Accuracy: 75.9280 Average Precision: 22.0107 Average Recall: 54.6759 Average F1: 31.3782 Average Missing: 45.6335 Average Test Accuracy: 75.8393 Average Test Precision: 21.9485 Average Test Recall: 54.3683 Average Test F1: 31.2196 Average Test Missing: 45.9315
+Saved
+--->Epoch [38/100], Average Loss: 0.0668 Average Accuracy: 75.9068 Average Precision: 22.0438 Average Recall: 54.8949 Average F1: 31.4480 Average Missing: 45.4175 Average Test Accuracy: 75.7355 Average Test Precision: 21.9318 Average Test Recall: 54.6873 Average Test F1: 31.2555 Average Test Missing: 45.6116
+Saved
+--->Epoch [39/100], Average Loss: 0.0666 Average Accuracy: 75.8807 Average Precision: 22.0594 Average Recall: 55.0513 Average F1: 31.4889 Average Missing: 45.2916 Average Test Accuracy: 75.7605 Average Test Precision: 22.0089 Average Test Recall: 54.9363 Average Test F1: 31.3752 Average Test Missing: 45.3326
+Saved
+--->Epoch [40/100], Average Loss: 0.0664 Average Accuracy: 75.8489 Average Precision: 22.0640 Average Recall: 55.2293 Average F1: 31.5209 Average Missing: 45.1188 Average Test Accuracy: 75.7690 Average Test Precision: 22.0170 Average Test Recall: 54.9426 Average Test F1: 31.3852 Average Test Missing: 45.3279
+Saved
+--->Epoch [41/100], Average Loss: 0.0662 Average Accuracy: 75.8180 Average Precision: 22.0838 Average Recall: 55.4091 Average F1: 31.5747 Average Missing: 44.9054 Average Test Accuracy: 75.5878 Average Test Precision: 21.9941 Average Test Recall: 55.5419 Average Test F1: 31.4580 Average Test Missing: 44.7350
+Saved
+--->Epoch [42/100], Average Loss: 0.0660 Average Accuracy: 75.8075 Average Precision: 22.1072 Average Recall: 55.5698 Average F1: 31.6221 Average Missing: 44.7527 Average Test Accuracy: 75.6701 Average Test Precision: 22.0391 Average Test Recall: 55.4300 Average Test F1: 31.4867 Average Test Missing: 44.8629
+Saved
+--->Epoch [43/100], Average Loss: 0.0659 Average Accuracy: 75.7882 Average Precision: 22.1433 Average Recall: 55.7941 Average F1: 31.6950 Average Missing: 44.5527 Average Test Accuracy: 75.6478 Average Test Precision: 22.0679 Average Test Recall: 55.6394 Average Test F1: 31.5495 Average Test Missing: 44.6562
+Saved
+--->Epoch [44/100], Average Loss: 0.0657 Average Accuracy: 75.7770 Average Precision: 22.1653 Average Recall: 55.9456 Average F1: 31.7446 Average Missing: 44.3968 Average Test Accuracy: 75.7793 Average Test Precision: 22.1669 Average Test Recall: 55.5785 Average Test F1: 31.6415 Average Test Missing: 44.6984
+Saved
+--->Epoch [45/100], Average Loss: 0.0655 Average Accuracy: 75.7367 Average Precision: 22.1470 Average Recall: 56.0136 Average F1: 31.7341 Average Missing: 44.2837 Average Test Accuracy: 75.6416 Average Test Precision: 22.1195 Average Test Recall: 55.8917 Average Test F1: 31.6422 Average Test Missing: 44.3770
+Saved
+--->Epoch [46/100], Average Loss: 0.0653 Average Accuracy: 75.7441 Average Precision: 22.1764 Average Recall: 56.1280 Average F1: 31.7845 Average Missing: 44.2230 Average Test Accuracy: 75.6988 Average Test Precision: 22.1558 Average Test Recall: 55.8356 Average Test F1: 31.6711 Average Test Missing: 44.4472
+Saved
+--->Epoch [47/100], Average Loss: 0.0652 Average Accuracy: 75.7657 Average Precision: 22.2515 Average Recall: 56.3644 Average F1: 31.8974 Average Missing: 43.9389 Average Test Accuracy: 75.6778 Average Test Precision: 22.1685 Average Test Recall: 55.9853 Average Test F1: 31.7094 Average Test Missing: 44.2969
+Saved
+--->Epoch [48/100], Average Loss: 0.0651 Average Accuracy: 75.7339 Average Precision: 22.2139 Average Recall: 56.3650 Average F1: 31.8604 Average Missing: 43.9515 Average Test Accuracy: 75.6191 Average Test Precision: 22.1550 Average Test Recall: 56.1459 Average Test F1: 31.7210 Average Test Missing: 44.1501
+Saved
+--->Epoch [49/100], Average Loss: 0.0649 Average Accuracy: 75.7199 Average Precision: 22.2393 Average Recall: 56.5084 Average F1: 31.9087 Average Missing: 43.7944 Average Test Accuracy: 75.5254 Average Test Precision: 22.1325 Average Test Recall: 56.4112 Average Test F1: 31.7410 Average Test Missing: 43.8680
+Saved
+--->Epoch [50/100], Average Loss: 0.0648 Average Accuracy: 75.7206 Average Precision: 22.2587 Average Recall: 56.6048 Average F1: 31.9442 Average Missing: 43.6935 Average Test Accuracy: 75.6878 Average Test Precision: 22.2585 Average Test Recall: 56.3451 Average Test F1: 31.8581 Average Test Missing: 43.9474
+--->Epoch [51/100], Average Loss: 0.0646 Average Accuracy: 75.7109 Average Precision: 22.2682 Average Recall: 56.6865 Average F1: 31.9662 Average Missing: 43.6496 Average Test Accuracy: 75.5582 Average Test Precision: 22.1953 Average Test Recall: 56.5703 Average Test F1: 31.8299 Average Test Missing: 43.7154
+Saved
+--->Epoch [52/100], Average Loss: 0.0645 Average Accuracy: 75.7345 Average Precision: 22.2910 Average Recall: 56.6916 Average F1: 31.9920 Average Missing: 43.6151 Average Test Accuracy: 75.6327 Average Test Precision: 22.2565 Average Test Recall: 56.5583 Average Test F1: 31.8914 Average Test Missing: 43.7385
+--->Epoch [53/100], Average Loss: 0.0644 Average Accuracy: 75.7258 Average Precision: 22.3354 Average Recall: 56.9367 Average F1: 32.0761 Average Missing: 43.4038 Average Test Accuracy: 75.5428 Average Test Precision: 22.2106 Average Test Recall: 56.7018 Average Test F1: 31.8669 Average Test Missing: 43.5731
+--->Epoch [54/100], Average Loss: 0.0643 Average Accuracy: 75.7420 Average Precision: 22.3653 Average Recall: 56.9885 Average F1: 32.1167 Average Missing: 43.3576 Average Test Accuracy: 75.5750 Average Test Precision: 22.2292 Average Test Recall: 56.6552 Average Test F1: 31.8789 Average Test Missing: 43.6364
+Saved
+--->Epoch [55/100], Average Loss: 0.0642 Average Accuracy: 75.7122 Average Precision: 22.3523 Average Recall: 57.0457 Average F1: 32.1097 Average Missing: 43.2606 Average Test Accuracy: 75.7065 Average Test Precision: 22.3483 Average Test Recall: 56.6806 Average Test F1: 32.0056 Average Test Missing: 43.6023
+--->Epoch [56/100], Average Loss: 0.0641 Average Accuracy: 75.7080 Average Precision: 22.3335 Average Recall: 57.0191 Average F1: 32.0870 Average Missing: 43.2784 Average Test Accuracy: 75.6206 Average Test Precision: 22.2933 Average Test Recall: 56.7694 Average Test F1: 31.9622 Average Test Missing: 43.5131
+--->Epoch [57/100], Average Loss: 0.0640 Average Accuracy: 75.7098 Average Precision: 22.3643 Average Recall: 57.1215 Average F1: 32.1345 Average Missing: 43.2321 Average Test Accuracy: 75.6275 Average Test Precision: 22.3146 Average Test Recall: 56.8518 Average Test F1: 31.9980 Average Test Missing: 43.4387
+Saved
+--->Epoch [58/100], Average Loss: 0.0639 Average Accuracy: 75.7222 Average Precision: 22.3852 Average Recall: 57.1918 Average F1: 32.1674 Average Missing: 43.1071 Average Test Accuracy: 75.6117 Average Test Precision: 22.3190 Average Test Recall: 56.9271 Average Test F1: 32.0151 Average Test Missing: 43.3604
+Saved
+--->Epoch [59/100], Average Loss: 0.0638 Average Accuracy: 75.7327 Average Precision: 22.4146 Average Recall: 57.2910 Average F1: 32.2156 Average Missing: 43.0322 Average Test Accuracy: 75.7583 Average Test Precision: 22.4161 Average Test Recall: 56.7840 Average Test F1: 32.0909 Average Test Missing: 43.5099
+--->Epoch [60/100], Average Loss: 0.0637 Average Accuracy: 75.7295 Average Precision: 22.4065 Average Recall: 57.2610 Average F1: 32.1992 Average Missing: 43.0610 Average Test Accuracy: 75.5145 Average Test Precision: 22.3065 Average Test Recall: 57.2584 Average Test F1: 32.0547 Average Test Missing: 43.0225
+Saved
+--->Epoch [61/100], Average Loss: 0.0635 Average Accuracy: 75.7824 Average Precision: 22.4937 Average Recall: 57.4413 Average F1: 32.3188 Average Missing: 42.8696 Average Test Accuracy: 75.6599 Average Test Precision: 22.4123 Average Test Recall: 57.1728 Average Test F1: 32.1499 Average Test Missing: 43.1257
+--->Epoch [62/100], Average Loss: 0.0635 Average Accuracy: 75.7326 Average Precision: 22.4185 Average Recall: 57.3083 Average F1: 32.2188 Average Missing: 43.0096 Average Test Accuracy: 75.5502 Average Test Precision: 22.3599 Average Test Recall: 57.3637 Average Test F1: 32.1268 Average Test Missing: 42.9364
+Saved
+--->Epoch [63/100], Average Loss: 0.0634 Average Accuracy: 75.7681 Average Precision: 22.4909 Average Recall: 57.4669 Average F1: 32.3222 Average Missing: 42.8444 Average Test Accuracy: 75.6297 Average Test Precision: 22.4347 Average Test Recall: 57.3921 Average Test F1: 32.2086 Average Test Missing: 42.9159
+--->Epoch [64/100], Average Loss: 0.0633 Average Accuracy: 75.7718 Average Precision: 22.5181 Average Recall: 57.5933 Average F1: 32.3675 Average Missing: 42.7296 Average Test Accuracy: 75.6433 Average Test Precision: 22.4083 Average Test Recall: 57.2153 Average Test F1: 32.1538 Average Test Missing: 43.0888
+--->Epoch [65/100], Average Loss: 0.0632 Average Accuracy: 75.8069 Average Precision: 22.5637 Average Recall: 57.6563 Average F1: 32.4267 Average Missing: 42.6569 Average Test Accuracy: 75.6226 Average Test Precision: 22.3883 Average Test Recall: 57.2194 Average Test F1: 32.1340 Average Test Missing: 43.0807
+Saved
+--->Epoch [66/100], Average Loss: 0.0630 Average Accuracy: 75.7969 Average Precision: 22.5569 Average Recall: 57.6911 Average F1: 32.4252 Average Missing: 42.5794 Average Test Accuracy: 75.6786 Average Test Precision: 22.4543 Average Test Recall: 57.2993 Average Test F1: 32.2145 Average Test Missing: 42.9955
+Saved
+--->Epoch [67/100], Average Loss: 0.0629 Average Accuracy: 75.8284 Average Precision: 22.5868 Average Recall: 57.7059 Average F1: 32.4569 Average Missing: 42.5773 Average Test Accuracy: 75.6197 Average Test Precision: 22.4501 Average Test Recall: 57.5091 Average Test F1: 32.2440 Average Test Missing: 42.7770
+Saved
+--->Epoch [68/100], Average Loss: 0.0629 Average Accuracy: 75.8429 Average Precision: 22.6198 Average Recall: 57.7683 Average F1: 32.5029 Average Missing: 42.5707 Average Test Accuracy: 75.6386 Average Test Precision: 22.4708 Average Test Recall: 57.5307 Average Test F1: 32.2684 Average Test Missing: 42.7550
+Saved
+--->Epoch [69/100], Average Loss: 0.0628 Average Accuracy: 75.8518 Average Precision: 22.6203 Average Recall: 57.7346 Average F1: 32.4959 Average Missing: 42.5879 Average Test Accuracy: 75.6222 Average Test Precision: 22.4889 Average Test Recall: 57.6808 Average Test F1: 32.3111 Average Test Missing: 42.6071
+Saved
+--->Epoch [70/100], Average Loss: 0.0627 Average Accuracy: 75.8675 Average Precision: 22.6506 Average Recall: 57.8139 Average F1: 32.5406 Average Missing: 42.4886 Average Test Accuracy: 75.6518 Average Test Precision: 22.5094 Average Test Recall: 57.6640 Average Test F1: 32.3294 Average Test Missing: 42.6141
+Saved
+--->Epoch [71/100], Average Loss: 0.0627 Average Accuracy: 75.8652 Average Precision: 22.6572 Average Recall: 57.8196 Average F1: 32.5436 Average Missing: 42.5127 Average Test Accuracy: 75.7982 Average Test Precision: 22.5927 Average Test Recall: 57.4539 Average Test F1: 32.3817 Average Test Missing: 42.8549
+--->Epoch [72/100], Average Loss: 0.0625 Average Accuracy: 75.8964 Average Precision: 22.7007 Average Recall: 57.9254 Average F1: 32.6112 Average Missing: 42.3908 Average Test Accuracy: 75.7029 Average Test Precision: 22.5565 Average Test Recall: 57.6690 Average Test F1: 32.3778 Average Test Missing: 42.6230
+Saved
+--->Epoch [73/100], Average Loss: 0.0624 Average Accuracy: 75.8918 Average Precision: 22.6805 Average Recall: 57.8342 Average F1: 32.5744 Average Missing: 42.4698 Average Test Accuracy: 75.7647 Average Test Precision: 22.5909 Average Test Recall: 57.5821 Average Test F1: 32.4007 Average Test Missing: 42.7019
+Saved
+--->Epoch [74/100], Average Loss: 0.0623 Average Accuracy: 75.9213 Average Precision: 22.7281 Average Recall: 57.9905 Average F1: 32.6490 Average Missing: 42.3634 Average Test Accuracy: 75.8603 Average Test Precision: 22.6889 Average Test Recall: 57.6452 Average Test F1: 32.5113 Average Test Missing: 42.6471
+--->Epoch [75/100], Average Loss: 0.0623 Average Accuracy: 75.9532 Average Precision: 22.7523 Average Recall: 57.9293 Average F1: 32.6662 Average Missing: 42.3723 Average Test Accuracy: 75.7566 Average Test Precision: 22.6053 Average Test Recall: 57.6837 Average Test F1: 32.4322 Average Test Missing: 42.6120
+Saved
+--->Epoch [76/100], Average Loss: 0.0623 Average Accuracy: 75.9653 Average Precision: 22.7807 Average Recall: 57.9982 Average F1: 32.7027 Average Missing: 42.3136 Average Test Accuracy: 75.9129 Average Test Precision: 22.7088 Average Test Recall: 57.5166 Average Test F1: 32.5115 Average Test Missing: 42.7746
+Saved
+--->Epoch [77/100], Average Loss: 0.0621 Average Accuracy: 75.9702 Average Precision: 22.7791 Average Recall: 58.0312 Average F1: 32.7070 Average Missing: 42.2664 Average Test Accuracy: 75.7471 Average Test Precision: 22.6618 Average Test Recall: 57.9920 Average Test F1: 32.5402 Average Test Missing: 42.2916
+--->Epoch [78/100], Average Loss: 0.0620 Average Accuracy: 76.0024 Average Precision: 22.8337 Average Recall: 58.1135 Average F1: 32.7784 Average Missing: 42.1544 Average Test Accuracy: 75.8247 Average Test Precision: 22.6828 Average Test Recall: 57.7713 Average Test F1: 32.5257 Average Test Missing: 42.5169
+Saved
+--->Epoch [79/100], Average Loss: 0.0619 Average Accuracy: 76.0018 Average Precision: 22.8224 Average Recall: 58.0583 Average F1: 32.7568 Average Missing: 42.2481 Average Test Accuracy: 75.7175 Average Test Precision: 22.6610 Average Test Recall: 58.1089 Average Test F1: 32.5571 Average Test Missing: 42.1763
+Saved
+--->Epoch [80/100], Average Loss: 0.0619 Average Accuracy: 76.0197 Average Precision: 22.8487 Average Recall: 58.1086 Average F1: 32.7908 Average Missing: 42.1908 Average Test Accuracy: 75.9484 Average Test Precision: 22.7616 Average Test Recall: 57.6156 Average Test F1: 32.5817 Average Test Missing: 42.6672
+Saved
+--->Epoch [81/100], Average Loss: 0.0617 Average Accuracy: 76.0598 Average Precision: 22.9060 Average Recall: 58.2254 Average F1: 32.8707 Average Missing: 42.1230 Average Test Accuracy: 75.9469 Average Test Precision: 22.8057 Average Test Recall: 57.8326 Average Test F1: 32.6621 Average Test Missing: 42.4567
+--->Epoch [82/100], Average Loss: 0.0617 Average Accuracy: 76.0534 Average Precision: 22.9023 Average Recall: 58.1971 Average F1: 32.8609 Average Missing: 42.1147 Average Test Accuracy: 75.9393 Average Test Precision: 22.7947 Average Test Recall: 57.8239 Average Test F1: 32.6499 Average Test Missing: 42.4594
+Saved
+--->Epoch [83/100], Average Loss: 0.0616 Average Accuracy: 76.0654 Average Precision: 22.9239 Average Recall: 58.2493 Average F1: 32.8912 Average Missing: 42.0470 Average Test Accuracy: 75.8626 Average Test Precision: 22.7956 Average Test Recall: 58.1386 Average Test F1: 32.7011 Average Test Missing: 42.1380
+--->Epoch [84/100], Average Loss: 0.0615 Average Accuracy: 76.0997 Average Precision: 22.9569 Average Recall: 58.3059 Average F1: 32.9348 Average Missing: 42.0304 Average Test Accuracy: 75.9620 Average Test Precision: 22.8249 Average Test Recall: 57.8646 Average Test F1: 32.6875 Average Test Missing: 42.4276
+Saved
+--->Epoch [85/100], Average Loss: 0.0615 Average Accuracy: 76.1039 Average Precision: 22.9478 Average Recall: 58.2286 Average F1: 32.9121 Average Missing: 42.0566 Average Test Accuracy: 75.9693 Average Test Precision: 22.8467 Average Test Recall: 57.9336 Average Test F1: 32.7211 Average Test Missing: 42.3557
