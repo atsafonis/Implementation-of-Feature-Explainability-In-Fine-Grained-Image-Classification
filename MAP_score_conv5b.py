@@ -3,7 +3,7 @@ import torch
 import numpy as np
 from statistics import mean 
 
-predicted_att_path = '/nfs/bigcortex/atsafonis/cub_classification/MMAL-Net/results_con5b_lay/results.txt'
+predicted_att_path = '/nfs/bigcortex/atsafonis/cub_classification/MMAL-Net/results_con5b_lay/best_results.txt'
 ground_truth_path = '/nfs/bigcortex/atsafonis/cub_classification/MMAL-Net/human_most_important_att'
 
 predicted_att = np.loadtxt(predicted_att_path, dtype=str)
